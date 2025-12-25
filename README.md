@@ -72,14 +72,14 @@ const edisson = {
 <i>Naruto</i>
 </td>
 <td align="center" width="33%">
-<img src="https://i.pinimg.com/originals/b3/6d/6f/b36d6f3f3f1c1e1c1c1c1c1c1c1c1c1c.gif" width="200" height="280"/>
+<img src="https://media.tenor.com/a1V-3ctKdQ0AAAAM/rem-rezero.gif" width="200" height="280"/>
 <br><br>
 <b>💙 Rem</b>
 <br>
 <i>Re:Zero</i>
 </td>
 <td align="center" width="33%">
-<img src="https://media1.tenor.com/m/gZ-CYmWqvWoAAAAC/anime-zero-two.gif" width="200" height="280"/>
+<img src="https://media.tenor.com/RmqS7PHT4-QAAAAM/zero-two-darling-and-the-franxx.gif" width="200" height="280"/>
 <br><br>
 <b>💗 Zero Two</b>
 <br>
@@ -88,21 +88,21 @@ const edisson = {
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://media1.tenor.com/m/WL4JHATfWn8AAAAC/nino-nakano-the-quintessential-quintuplets.gif" width="200" height="280"/>
+<img src="https://media.tenor.com/kS5TpXMw4tYAAAAM/nino-nakano.gif" width="200" height="280"/>
 <br><br>
 <b>💜 Nino Nakano</b>
 <br>
 <i>Gotoubun no Hanayome</i>
 </td>
 <td align="center" width="33%">
-<img src="https://media1.tenor.com/m/7JQXaEDdC0QAAAAC/miku-nakano-miku.gif" width="200" height="280"/>
+<img src="https://media.tenor.com/_6wS-ccHay8AAAAM/miku-nakano-cookie.gif" width="200" height="280"/>
 <br><br>
 <b>💙 Miku Nakano</b>
 <br>
 <i>Gotoubun no Hanayome</i>
 </td>
 <td align="center" width="33%">
-<img src="https://media1.tenor.com/m/wBgdVNn-u4sAAAAC/mai-sakurajima-bunny-girl-senpai.gif" width="200" height="280"/>
+<img src="https://media.tenor.com/9ufLyKBohioAAAAm/mai-sakurajima-seishun-buta-yarou.webp" width="200" height="280"/>
 <br><br>
 <b>🖤 Mai Sakurajima</b>
 <br>
@@ -111,21 +111,21 @@ const edisson = {
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://media1.tenor.com/m/eYCcVDdC_zEAAAAC/nezuko-kamado-nezuko.gif" width="200" height="280"/>
+<img src="https://media.tenor.com/eeLfs67r9hgAAAAM/nezuko-kamado.gif" width="200" height="280"/>
 <br><br>
 <b>🌺 Nezuko Kamado</b>
 <br>
 <i>Demon Slayer</i>
 </td>
 <td align="center" width="33%">
-<img src="https://media1.tenor.com/m/4ATqGJrW7qsAAAAC/violet-evergarden-anime.gif" width="200" height="280"/>
+<img src="https://media.tenor.com/7PXqbKPE3_kAAAAM/violetaa-ever.gif" width="200" height="280"/>
 <br><br>
 <b>💠 Violet Evergarden</b>
 <br>
 <i>Violet Evergarden</i>
 </td>
 <td align="center" width="33%">
-<img src="https://media1.tenor.com/m/gR6jHGCYxQIAAAAC/kaguya-sama-love-is-war-kaguya-shinomiya.gif" width="200" height="280"/>
+<img src="https://media.tenor.com/9XGuoKOSqrcAAAAm/kaguya-sama-kaguya.webp" width="200" height="280"/>
 <br><br>
 <b>❤️ Kaguya Shinomiya</b>
 <br>
