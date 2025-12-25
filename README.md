@@ -65,7 +65,7 @@ const edisson = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://64.media.tumblr.com/f9aa8f0e5e6ea12798d0e6e0f983f3c8/tumblr_inline_p7n60qPfhc1rp42gj_400.gifv" width="200" height="280"/>
+<img src="https://media.tenor.com/3mnfm6Zrp68AAAAM/hinata-naruto.gif" width="200" height="280"/>
 <br><br>
 <b>🌸 Hinata Hyuga</b>
 <br>
