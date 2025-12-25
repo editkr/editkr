@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Edisson Paricahua
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80;Anime+Enthusiast+%F0%9F%8E%8C" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
@@ -10,9 +10,43 @@
 
 ---
 
+## 🎨 Anime Waifus Corner
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://i.pinimg.com/originals/df/14/5f/df145f8f0c3e7d84be4f0e3d3f94f0bb.gif" width="120" height="120"/>
+<br><b>Nezuko</b>
+</td>
+<td align="center" width="20%">
+<img src="https://i.pinimg.com/originals/a6/1d/8c/a61d8c742a724c7d9a7c3f0ad0f58c3c.gif" width="120" height="120"/>
+<br><b>Miku</b>
+</td>
+<td align="center" width="20%">
+<img src="https://i.pinimg.com/originals/9b/98/6f/9b986f4d21709b3a14a7c4daef5e5040.gif" width="120" height="120"/>
+<br><b>Zero Two</b>
+</td>
+<td align="center" width="20%">
+<img src="https://i.pinimg.com/originals/e5/3c/2b/e53c2b5a56a5c3db29e851f865a3cd7d.gif" width="120" height="120"/>
+<br><b>Rem</b>
+</td>
+<td align="center" width="20%">
+<img src="https://i.pinimg.com/originals/c0/3d/88/c03d88f3f43e2f7a2e5b8f6c0b5c7d3e.gif" width="120" height="120"/>
+<br><b>Mai</b>
+</td>
+</tr>
+</table>
+
+<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="400"/>
+
+</div>
+
+---
+
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Anime Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 ```typescript
 const edisson = {
   location: "Juliaca, Puno 🇵🇪",
@@ -25,6 +59,7 @@ const edisson = {
     databases: ["MongoDB", "MySQL", "PostgreSQL"],
     devOps: ["Docker", "AWS", "Linux"]
   },
+  hobbies: ["Coding", "Anime", "Gaming"],
   currentFocus: "Building awesome projects",
   funFact: "I debug with console.log() 😅"
 };
@@ -79,6 +114,86 @@ const edisson = {
 
 ---
 
+## 💖 Favorite Waifus
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://64.media.tumblr.com/f9aa8f0e5e6ea12798d0e6e0f983f3c8/tumblr_inline_p7n60qPfhc1rp42gj_400.gifv" width="200"/>
+<br><br>
+<b>🌸 Hinata Hyuga</b>
+<br>
+<i>Naruto</i>
+</td>
+<td align="center" width="33%">
+<img src="https://i.pinimg.com/originals/b3/6d/6f/b36d6f3f3f1c1e1c1c1c1c1c1c1c1c1c.gif" width="200"/>
+<br><br>
+<b>💙 Rem</b>
+<br>
+<i>Re:Zero</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/gZ-CYmWqvWoAAAAC/anime-zero-two.gif" width="200"/>
+<br><br>
+<b>💗 Zero Two</b>
+<br>
+<i>Darling in the Franxx</i>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/WL4JHATfWn8AAAAC/nino-nakano-the-quintessential-quintuplets.gif" width="200"/>
+<br><br>
+<b>💜 Nino Nakano</b>
+<br>
+<i>Gotoubun no Hanayome</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/7JQXaEDdC0QAAAAC/miku-nakano-miku.gif" width="200"/>
+<br><br>
+<b>💙 Miku Nakano</b>
+<br>
+<i>Gotoubun no Hanayome</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/wBgdVNn-u4sAAAAC/mai-sakurajima-bunny-girl-senpai.gif" width="200"/>
+<br><br>
+<b>🖤 Mai Sakurajima</b>
+<br>
+<i>Bunny Girl Senpai</i>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/eYCcVDdC_zEAAAAC/nezuko-kamado-nezuko.gif" width="200"/>
+<br><br>
+<b>🌺 Nezuko Kamado</b>
+<br>
+<i>Demon Slayer</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/4ATqGJrW7qsAAAAC/violet-evergarden-anime.gif" width="200"/>
+<br><br>
+<b>💠 Violet Evergarden</b>
+<br>
+<i>Violet Evergarden</i>
+</td>
+<td align="center" width="33%">
+<img src="https://media1.tenor.com/m/gR6jHGCYxQIAAAAC/kaguya-sama-love-is-war-kaguya-shinomiya.gif" width="200"/>
+<br><br>
+<b>❤️ Kaguya Shinomiya</b>
+<br>
+<i>Kaguya-sama</i>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -112,26 +227,26 @@ const edisson = {
 
 ---
 
-## 🎨 Anime Corner
+## 🎯 Anime Coding Modes
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="150" height="150"/>
-<br><b>Coding Mode</b>
-</td>
-<td align="center" width="25%">
 <img src="https://media.tenor.com/SpWjGkEYpK0AAAAC/anime-aesthetic.gif" width="150" height="150"/>
-<br><b>Learning</b>
+<br><b>☕ Morning Coffee</b>
 </td>
 <td align="center" width="25%">
 <img src="https://media.tenor.com/s3dHZva_Me4AAAAC/anime-typing.gif" width="150" height="150"/>
-<br><b>Debugging</b>
+<br><b>💻 Coding Time</b>
 </td>
 <td align="center" width="25%">
 <img src="https://media.tenor.com/WHBDjlDlE_EAAAAC/anime-working.gif" width="150" height="150"/>
-<br><b>Working</b>
+<br><b>🐛 Debugging</b>
+</td>
+<td align="center" width="25%">
+<img src="https://media.tenor.com/yGy6yqHqLo0AAAAC/anime-sleep.gif" width="150" height="150"/>
+<br><b>😴 Deploy Time</b>
 </td>
 </tr>
 </table>
@@ -189,6 +304,8 @@ const edisson = {
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-### ⭐ From [edissonparicahua123](https://github.com/edissonparicahua123) with 💙
+### 💜 "Code like your waifu is watching" 💙
+
+### ⭐ From [edissonparicahua123](https://github.com/edissonparicahua123) with 💖
 
 </div>
