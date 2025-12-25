@@ -65,11 +65,11 @@ const edisson = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.tenor.com/3mnfm6Zrp68AAAAM/hinata-naruto.gif" width="200" height="280"/>
+<img src="https://media.tenor.com/EQCT1ywCR0wAAAAM/alya-alisa-mikhailovna-kujou.gif" width="200" height="280"/>
 <br><br>
-<b>🌸 Hinata Hyuga</b>
+<b>🌸 Alisa Kujou</b>
 <br>
-<i>Naruto</i>
+<i>Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san</i>
 </td>
 <td align="center" width="33%">
 <img src="https://media.tenor.com/a1V-3ctKdQ0AAAAM/rem-rezero.gif" width="200" height="280"/>
