@@ -208,7 +208,7 @@ const edisson = {
 </td>
 <td width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=editkrtheme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=editkr&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" width="100%"/>
 
 </td>
 </tr>
