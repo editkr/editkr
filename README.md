@@ -191,32 +191,32 @@ const edisson = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=edissonparicahua123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=editkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" width="100%"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edissonparicahua123&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=editkr&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" width="100%"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edissonparicahua123&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=editkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" width="100%"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=edissonparicahua123&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=editkrtheme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edissonparicahua123&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=editkr&theme=tokyonight" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edissonparicahua123&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=editkr&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="100%" />
 
 </div>
 
@@ -285,9 +285,9 @@ const edisson = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edissonparicahua123/edissonparicahua123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edissonparicahua123/edissonparicahua123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edissonparicahua123/edissonparicahua123/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/editkr/editkr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/editkr/editkr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/editkr/editkr/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -298,9 +298,9 @@ const edisson = {
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=edissonparicahua123&style=for-the-badge&color=blueviolet)
-![](https://img.shields.io/github/followers/edissonparicahua123?style=for-the-badge&color=blue)
-![](https://img.shields.io/github/stars/edissonparicahua123?style=for-the-badge&color=yellow)
+![](https://komarev.com/ghpvc/?username=editkr&style=for-the-badge&color=blueviolet)
+![](https://img.shields.io/github/followers/editkr?style=for-the-badge&color=blue)
+![](https://img.shields.io/github/stars/editkr?style=for-the-badge&color=yellow)
 
 </div>
 
@@ -312,6 +312,6 @@ const edisson = {
 
 ### 💜 "Code like your waifu is watching" 💙
 
-### ⭐ From [edissonparicahua123](https://github.com/edissonparicahua123) with 💖
+### ⭐ From [editkr](https://github.com/editkr) with 💖
 
 </div>
