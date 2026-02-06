@@ -10,7 +10,7 @@
 
 ---
 
-## 🎨 Anime Waifus Corner
+## 💕 Anime Waifus Corner
 
 <div align="center">
 
